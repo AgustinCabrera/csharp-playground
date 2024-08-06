@@ -1,0 +1,15 @@
+C:\C#\CsharpProjects\bin\Debug\net8.0\CsharpProjects.exe
+C:\C#\CsharpProjects\bin\Debug\net8.0\CsharpProjects.deps.json
+C:\C#\CsharpProjects\bin\Debug\net8.0\CsharpProjects.runtimeconfig.json
+C:\C#\CsharpProjects\bin\Debug\net8.0\CsharpProjects.dll
+C:\C#\CsharpProjects\bin\Debug\net8.0\CsharpProjects.pdb
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.AssemblyInfoInputs.cache
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.AssemblyInfo.cs
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.csproj.CoreCompileInputs.cache
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.sourcelink.json
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.dll
+C:\C#\CsharpProjects\obj\Debug\net8.0\refint\CsharpProjects.dll
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.pdb
+C:\C#\CsharpProjects\obj\Debug\net8.0\CsharpProjects.genruntimeconfig.cache
+C:\C#\CsharpProjects\obj\Debug\net8.0\ref\CsharpProjects.dll
